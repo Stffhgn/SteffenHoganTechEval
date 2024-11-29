@@ -1,0 +1,26 @@
+{
+  "loginPage": {
+    "emailField": "input[type='email']",
+    "emailContinueButton": "#Login-appRoot > div > div.LoginCardLayout-card > div > div > form > div.ButtonThemeablePresentation--isEnabled.ButtonThemeablePresentation.ButtonThemeablePresentation--large.LoginButton.LoginEmailForm-continueButton.Stack.Stack--align-center.Stack--direction-row.Stack--display-inline.Stack--justify-center",
+    "passwordField": "input[name='p']",
+    "passwordFieldById": "#lui_6",
+    "loginButton": "#Login-appRoot > div > div.LoginCardLayout-card > div.LoginCardLayout-card--content > form > div.ButtonThemeablePresentation--isEnabled.ButtonThemeablePresentation.ButtonThemeablePresentation--large.LoginButton.LoginPasswordForm-loginButton.Stack.Stack--align-center.Stack--direction-row.Stack--display-inline.Stack--justify-center",
+    "logoSelector": "#Login-appRoot img"
+  },
+
+
+  "asana": {
+    "sidebarToggleButton": "button[aria-label='Expand sidebar'], div[aria-label='Expand sidebar']",
+    "projectsSection": "h2.SidebarUpdatedCollapsibleHeader-dropdownMenuLabel:has-text('Projects')",
+    "projectLink": "span.SidebarNavigationLinkCard-label:text-is('{{project}}')",
+    "listTab": "#asana_main_page > div.FullWidthPageStructureWithDetailsOverlay.PotBoardPage > div.FullWidthPageStructureWithDetailsOverlay-fullWidth > div.FullWidthPageStructureWithDetailsOverlay-mainContent > div.AsanaBaseTopbar.AsanaBaseTopbar--withoutShadow.Stack.Stack--align-center.Stack--direction-row.Stack--display-block.Stack--justify-start > div.AsanaBaseTopbar-pageHeader.Stack--spacer.Stack.Stack--align-stretch.Stack--direction-row.Stack--display-inline.Stack--justify-start > div > div.ObjectCustomTabNavigationBarWithOverflow.CustomTabNavigationBar.PotCustomTabNavigationBar.ProjectPageHeader-navigationBar.ProjectPageHeader-navigationBar--fullWidth > nav > ul > div.Scrollable--withCompositingLayer.Scrollable.Scrollable--horizontal.ObjectReorderableTabNavigationBar-scrollable > div > div > div:nth-child(2) > div > li > div > div.ObjectTabNavigationBarItemWithMenu-link > span > span > svg",
+    "listViewContainer": "div.ProjectPage-list",
+    "groupHeader": "div.TaskGroupHeader-headerContainer h5",
+    "groupContainer": ".TaskGroup",
+    "tasksUnderGroup": "div.TaskGroupBodyContainer",
+    "taskName": ".SpreadsheetTaskName",
+    "taskRow": ".SpreadsheetTaskRow",
+    "taskTags": ".PillThemeablePresentation"
+  }
+
+}

@@ -1,0 +1,14 @@
+{
+  "name": "steffen-hogan-tech-eval",
+  "version": "0.0.0",
+  "description": "SteffenHoganTechEval",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {}
+}

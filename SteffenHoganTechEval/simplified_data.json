@@ -1,0 +1,69 @@
+[
+  {
+    "group": "Doing",
+    "tasks": [
+      {
+        "task": "kjkj",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "group": "Doing",
+    "tasks": [
+      {
+        "task": "kjkj",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "group": "To do",
+    "tasks": [
+      {
+        "task": "Draft project brief",
+        "tags": [
+          "Non-Priority",
+          "On track"
+        ]
+      },
+      {
+        "task": "Share timeline with teammates",
+        "tags": [
+          "High",
+          "Off track"
+        ]
+      },
+      {
+        "task": "Schedule kickoff meeting",
+        "tags": [
+          "Medium",
+          "At risk"
+        ]
+      },
+      {
+        "task": "bis ventus",
+        "tags": [
+          "Low",
+          "On track"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "Done",
+    "tasks": [
+      {
+        "task": "Duplicate of Draft project brief",
+        "tags": [
+          "Low",
+          "On track"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "Untitled section",
+    "tasks": []
+  }
+]

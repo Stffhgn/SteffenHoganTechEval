@@ -1,0 +1,45 @@
+[
+  {
+    "testName": "Verify 'Draft project brief' in 'To do' column",
+    "project": "Cross-functional project plan",
+    "group": "To do",
+    "task": "Draft project brief",
+    "tags": [ "Non-Priority", "On track" ]
+  },
+  {
+    "testName": "Verify 'Schedule kickoff meeting' in 'To do' column",
+    "project": "Cross-functional project plan",
+    "group": "To do",
+    "task": "Schedule kickoff meeting",
+    "tags": [ "Medium", "At risk" ]
+  },
+  {
+    "testName": "Verify 'Share timeline with teammates' in 'To do' column",
+    "project": "Cross-functional project plan",
+    "group": "To do",
+    "task": "Share timeline with teammates",
+    "tags": [ "High", "Off track" ]
+  },
+  {
+    "testName": "Verify '[Example] Laptop setup for new hire' in 'New Requests' column",
+    "project": "Work Requests",
+    "group": "New Requests",
+    "task": "[Example] Laptop setup for new hire",
+    "tags": [ "Medium priority", "Low effort", "New hardware", "Not Started" ]
+  },
+  {
+    "testName": "Verify '[Example] Password not working' in 'In Progress' column",
+    "project": "Work Requests",
+    "group": "In Progress",
+    "task": "[Example] Password not working",
+    "tags": [ "Low effort", "Low priority", "Password reset", "Waiting" ]
+  },
+  {
+    "testName": "Verify '[Example] New keycard for Daniela V' in 'Completed' column",
+    "project": "Work Requests",
+    "group": "Completed",
+    "task": "[Example] New keycard for Daniela V",
+    "tags": [ "Low effort", "New hardware", "High Priority", "Done" ]
+  }
+
+]
